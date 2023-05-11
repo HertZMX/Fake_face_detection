@@ -1,2 +1,3 @@
 # Fake_face_detection
-A project for Advance Topic in Data Science, using NN to detect generated or manipulated image
+The rapidly improving image generation technology had drastically increases the difficulty of human detection of whether or not the images are real. And although there are already many GAN image detectors online, none of them has showed their generalization capability to unseen samples. Hence, this project experiment with different combinations of the best model architectures and preprocessing methods and test them with image from more advanced GAN or manipulated image to evaluate the robustness of these models and the performance of different preprocessing methods.
+![FsEy5bVWcAAs4xN](https://github.com/HertZMX/Fake_face_detection/assets/107277409/b41bf052-5968-4695-9d22-504364919242)
