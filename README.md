@@ -30,6 +30,8 @@ We discovered that the models of ResNet18, ShallowNetV3, Xception, and DenseNet1
 
 Subgroup comparisons indicated that certain subgroups could significantly influence results, with the accuracy of StyleGAN2 reaching almost 100% in AutoML model and ResNet50 model and highest performance on all other four models.
 
+<br />
+
 <img src="https://github.com/HertZMX/Fake_face_detection/assets/107277409/99d6a2f2-476c-4fda-b7c9-5e8753c951a1" alt="Image 1" width="300px" />
 <img src="https://github.com/HertZMX/Fake_face_detection/assets/107277409/85bbc13d-2716-43a2-8881-604c9095ed28" alt="Image 2" width="300px" />
 <img src=https://github.com/HertZMX/Fake_face_detection/assets/107277409/758f4f3b-c71a-4d1e-b90f-610fd6a820e1" alt="Image 3" width="300px" />
