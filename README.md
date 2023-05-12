@@ -32,10 +32,11 @@ Subgroup comparisons indicated that certain subgroups could significantly influe
 
 <img src="https://github.com/HertZMX/Fake_face_detection/assets/107277409/99d6a2f2-476c-4fda-b7c9-5e8753c951a1" alt="Image 1" width="400px" />
 <img src="https://github.com/HertZMX/Fake_face_detection/assets/107277409/85bbc13d-2716-43a2-8881-604c9095ed28" alt="Image 2" width="400px" />
+<img src=https://github.com/HertZMX/Fake_face_detection/assets/107277409/758f4f3b-c71a-4d1e-b90f-610fd6a820e1" alt="Image 1" width="400px" />
 
 In terms of robustness, despite AutoML's superior accuracy, the performance is poor when testing with unseen datasets, such as StyleGAN3 and Photoshop. In contrast, the other five models demonstrated greater robustness, with pretrained ResNet50 showing the highest robustness, achieving an accuracy of 70%. 
 
-![download (3)](https://github.com/HertZMX/Fake_face_detection/assets/107277409/758f4f3b-c71a-4d1e-b90f-610fd6a820e1)
+![image](https://github.com/HertZMX/Fake_face_detection/assets/95679749/a8c8d6f0-029e-4d92-91e8-105e2a497bb2)
 
 Another pattern is shown in all of the models we experimented. Although ResNet50 with pretrain improved the best testing accuracy, but the testing accuracy is around the same from the first to 300th epoch. The training accuracy can be as high as 90%, indicating we are not underfitting, and the training accuracy increase during the processes also indicates we are not overfitting. This phenomenon should be further investigated and experimented upon. 
 
