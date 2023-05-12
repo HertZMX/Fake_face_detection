@@ -34,7 +34,9 @@ Subgroup comparisons indicated that certain subgroups could significantly influe
 <img src="https://github.com/HertZMX/Fake_face_detection/assets/107277409/85bbc13d-2716-43a2-8881-604c9095ed28" alt="Image 2" width="300px" />
 <img src=https://github.com/HertZMX/Fake_face_detection/assets/107277409/758f4f3b-c71a-4d1e-b90f-610fd6a820e1" alt="Image 3" width="300px" />
 
-In terms of robustness, despite AutoML's superior accuracy, the performance is poor when testing with unseen datasets, such as StyleGAN3 and Photoshop. In contrast, the other five models demonstrated greater robustness, with pretrained ResNet50 showing the highest robustness, achieving an accuracy of 70%. 
+                                                                                                                                     
+<pre>
+                                                                                                                                                     In terms of robustness, despite AutoML's superior accuracy, the performance is poor when testing with unseen datasets, such as StyleGAN3 and Photoshop. In contrast, the other five models demonstrated greater robustness, with pretrained ResNet50 showing the highest robustness, achieving an accuracy of 70%. 
 
 ![image](https://github.com/HertZMX/Fake_face_detection/assets/95679749/a8c8d6f0-029e-4d92-91e8-105e2a497bb2)
 
